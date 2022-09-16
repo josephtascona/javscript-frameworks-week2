@@ -1,0 +1,22 @@
+{
+  "name": "week2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "closedFunction.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephtascona/javscript-frameworks-week2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josephtascona/javscript-frameworks-week2/issues"
+  },
+  "homepage": "https://github.com/josephtascona/javscript-frameworks-week2#readme",
+  "dependencies": {
+    "weather-js": "^2.0.0"
+  }
+}
