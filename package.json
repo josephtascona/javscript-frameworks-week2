@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/josephtascona/javscript-frameworks-week2#readme",
   "dependencies": {
+    "accounting": "^0.4.1",
     "weather-js": "^2.0.0"
   }
 }
